@@ -1,4 +1,4 @@
-```markdown
+
 # 🚗 Simulasi Tekanan Ban via ESP32 + Modbus RTU + OPC UA
 
 Proyek ini mensimulasikan 8 sensor tekanan ban menggunakan ESP32 (via Wokwi), mengirim data dalam format **Modbus RTU Response**, dan meneruskannya ke **OPC UA Server Python**. Cocok untuk pengujian sistem monitoring tekanan ban sebelum perangkat fisik tersedia.
